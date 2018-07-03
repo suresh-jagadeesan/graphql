@@ -76,7 +76,7 @@ Parameter:
 
 #4
 
-query getSingleCourses {
+query getCourses {
     courses {
         title
         author
