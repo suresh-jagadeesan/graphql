@@ -74,4 +74,14 @@ Parameter:
 }
 
 
+#4
 
+query getSingleCourses {
+    courses {
+        title
+        author
+        description
+        topic
+        url
+    }
+}
