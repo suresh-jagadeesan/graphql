@@ -1,7 +1,3 @@
-npm init
-
-Basic:
-
 npm install apollo-server-express body-parser express graphql graphql-tools --save
 
 node server.js
